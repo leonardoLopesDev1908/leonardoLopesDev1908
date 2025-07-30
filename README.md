@@ -1,31 +1,53 @@
-# Olá! 👋 Eu sou Leonardo Lopes
+# Olá! Eu sou o Leonardo Lopes da Silva 👋
 
-Sou um apaixonado por tecnologia e estudante de Engenharia de Software, sempre em busca de novos conhecimentos e desafios para aplicar no mundo do desenvolvimento.
-
----
-
-### 🚀 Atualmente Focado em:
-
-Minha jornada profissional e acadêmica tem um forte foco em **Java**, com experiência prática em:
-* **Spring Boot:** Construção de APIs robustas e escaláveis.
-* **JavaFX:** Desenvolvimento de aplicações desktop modernas.
-* **JPA/Hibernate:** Persistência de dados e mapeamento objeto-relacional.
-* **Spring Security & OAuth2/JWT:** Implementação de segurança para aplicações e APIs.
+### Engenheiro de Software em Formação com Paixão por Tecnologia e Segurança
 
 ---
 
-### 💻 Interesses em Programação de Baixo Nível & Segurança:
+### 🚀 Sobre Mim
 
-Paralelamente à minha carreira em Java, tenho um grande interesse e dedicação ao mundo da **programação de baixo nível**, com uma curiosidade insaciável por:
-* **Engenharia Reversa:** Entender como o software funciona por dentro.
-* **Segurança da Informação:** Explorar vulnerabilidades e proteger sistemas.
-* **Linguagens de Baixo Nível:** Aprofundar em **C** e **Assembly**.
-* **Gerenciamento de Memória e Ponteiros:** Compreender o funcionamento fundamental dos sistemas.
+Sou um estudante de Engenharia de Software na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), apaixonado por tecnologia e em constante busca por novos desafios. Tenho um forte interesse em desenvolvimento back-end com **Java e Spring Boot**, focando em criar soluções robustas e eficientes.
 
-Atualmente, estou me aprofundando nos conceitos de sistemas de computadores (como no livro "Computer Systems: A Programmer's Perspective") para solidificar essa base.
+Além do desenvolvimento web, possuo um grande fascínio por **programação de baixo nível**, incluindo **engenharia reversa e segurança de sistemas**. Estou sempre aprendendo sobre Assembly, C, ponteiros e gerenciamento de memória, e atualmente aprofundando meus conhecimentos com o estudo de "Computer Systems".
+
+Busco constantemente aplicar meus conhecimentos em projetos práticos e contribuir para a comunidade tecnológica.
 
 ---
 
+### 🛠️ Tecnologias e Ferramentas
+
+Minha stack principal e áreas de estudo incluem:
+
+* **Linguagens:** Java, Python, C, Assembly
+* **Frameworks/Bibliotecas:** Spring Boot, JPA, Spring Security, Thymeleaf, Pandas
+* **Bancos de Dados:** PostgreSQL
+* **Ferramentas:** Docker, Git, GitHub, VS Code
+* **Frontend:** HTML, CSS
+
+
+### 💼 Experiência Relevante
+
+* **Estagiário - Secretaria da Reconstrução Gaúcha do Rio Grande do Sul**
+    * Out 2024 – Atualmente
+    * Pesquisa e mapeamento de projetos de reconstrução pós-enchentes de 2024.
+    * **Desenvolvimento de dashboards interativos utilizando ArcGIS.**
+
+### 🎓 Formação Acadêmica
+
+* **Bacharelado em Engenharia de Software**
+    * Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+    * Atualmente no 2º semestre (período noturno)
+
+---
+
+### 🤝 Conecte-se Comigo
+
+* **LinkedIn:** [Seu link do LinkedIn aqui]
+* **Email:** leonardosilvalls1908@gmail.com
+
+---
+
+_Este README é um work in progress, assim como meus conhecimentos!_
 ### 🌱 O Que Estou Aprendendo/Explorando:
 
 * Melhores práticas em arquitetura de software com Spring.
