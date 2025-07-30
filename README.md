@@ -41,7 +41,7 @@ Minha stack principal e áreas de estudo incluem:
 
 ### 🤝 Conecte-se Comigo
 
-* **LinkedIn:** [https://www.linkedin.com/in/leonardo-lopes]
+* **LinkedIn:** [https://www.linkedin.com/in/leonardo-lopes-b4b999178]
 * **Email:** leonardosilvalls1908@gmail.com
 
 ---
