@@ -24,14 +24,14 @@ Minha stack principal e áreas de estudo incluem:
 * **Ferramentas:** Docker, Git, GitHub, VS Code
 * **Frontend:** HTML, CSS
 
-### 💼 Experiência Relevante
+### Experiência Relevante
 
 * **Estagiário - Secretaria da Reconstrução Gaúcha do Rio Grande do Sul**
     * Out 2024 – Atualmente
     * Pesquisa e mapeamento de projetos de reconstrução pós-enchentes de 2024.
     * **Desenvolvimento de dashboards interativos utilizando ArcGIS.**
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 
 * **Bacharelado em Engenharia de Software**
     * Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
@@ -39,7 +39,7 @@ Minha stack principal e áreas de estudo incluem:
 
 ---
 
-### 🤝 Conecte-se Comigo
+### Conecte-se Comigo
 
 * **LinkedIn:** [https://www.linkedin.com/in/leonardo-lopes-b4b999178]
 * **Email:** leonardosilvalls1908@gmail.com
@@ -48,7 +48,7 @@ Minha stack principal e áreas de estudo incluem:
 
 _Este README é um work in progress, assim como meus conhecimentos!_
 
-### 🌱 O Que Estou Aprendendo:
+### O Que Estou Aprendendo:
 
 * Melhores práticas em arquitetura de software com Spring.
 * Padrões de design e otimização de código Java.
