@@ -20,8 +20,8 @@ Minha stack principal e áreas de estudo incluem:
 
 * **Linguagens:** Java, C, Python
 * **Frameworks/Bibliotecas:** Spring Boot, JPA, Spring Security, Thymeleaf, Pandas
-* **Bancos de Dados:** PostgreSQL
-* **Ferramentas:** Docker, Git, GitHub, VS Code
+* **Bancos de Dados:** PostgreSQL, MySQL
+* **Ferramentas:** Docker, Git, GitHub
 * **Frontend:** HTML, CSS
 
 ### Experiência Relevante
