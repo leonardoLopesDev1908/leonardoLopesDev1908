@@ -18,11 +18,12 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 
 Minha stack principal e áreas de estudo incluem:
 
-* **Linguagens:** Java, C++, Python
-* **Frameworks/Bibliotecas:** Spring Boot, JPA, Spring Security, Thymeleaf, Pandas
+* **Linguagens:** Java, C++, JavaScript, Python
+* **Frameworks/Bibliotecas:** Spring FrameWork, Pandas, Django
 * **Bancos de Dados:** PostgreSQL, MySQL
-* **Ferramentas:** Docker, Git, GitHub
+* **Ferramentas:** Docker, Git, GitHub, GitLab
 * **Frontend:** HTML, CSS
+* **Deploy: **AWS (ECS, EC2, ECR, Aurora/RDS, IAM, Certificate Manager)
 
 ### Experiência Relevante
 
