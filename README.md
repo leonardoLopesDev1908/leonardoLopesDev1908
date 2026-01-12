@@ -23,7 +23,7 @@ Minha stack principal e áreas de estudo incluem:
 * **Bancos de Dados:** PostgreSQL, MySQL
 * **Ferramentas:** Docker, Git, GitHub, GitLab
 * **Frontend:** HTML, CSS
-* **Deploy: **AWS (ECS, EC2, ECR, Aurora/RDS, IAM, Certificate Manager)
+* Deploy: AWS (ECS, EC2, ECR, Aurora/RDS, IAM, Certificate Manager)
 
 ### Experiência Relevante
 
