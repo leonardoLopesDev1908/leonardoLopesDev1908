@@ -36,7 +36,7 @@ Minha stack principal e áreas de estudo incluem:
 
 * **Bacharelado em Engenharia de Software**
     * Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
-    * Atualmente no 2º semestre (período noturno)
+    * Atualmente no 3º semestre (período noturno)
 
 ---
 
