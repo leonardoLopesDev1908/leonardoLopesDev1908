@@ -1,10 +1,10 @@
-# Olá! Eu sou o Leonardo Lopes da Silva 👋
+# Olá! Eu sou o Leonardo Lopes da Silva 
 
 ### Engenheiro de Software em Formação
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 Sou estudante de Engenharia de Software na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), interessado por tecnologia e em constante busca por novos conhecimentos. Tenho um forte interesse em desenvolvimento back-end com **Java e Spring Boot**, focando em criar soluções robustas e eficientes.
 
@@ -14,7 +14,7 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 Minha stack principal e áreas de estudo incluem:
 
