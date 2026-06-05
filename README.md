@@ -22,7 +22,7 @@ Minha stack principal e áreas de estudo incluem:
 * **Frameworks/Bibliotecas:** Spring FrameWork, Pandas, Asio
 * **Bancos de Dados:** PostgreSQL, MySQL
 * **Ferramentas:** Docker, Git, GitHub, GitLab, Jenkins
-* **Frontend:** HTML, CSS
+* **Frontend:** HTML, CSS, Angular, React
 * Deploy: AWS (ECS, EC2, ECR, Aurora/RDS, IAM, Certificate Manager)
 
 ### Experiência Relevante
@@ -30,7 +30,7 @@ Minha stack principal e áreas de estudo incluem:
 * **Estagiário - Secretaria da Reconstrução Gaúcha do Rio Grande do Sul**
     * Out 2024 – Atualmente
     * Pesquisa e mapeamento de projetos de reconstrução pós-enchentes de 2024.
-    * **Desenvolvimento de dashboards interativos utilizando ArcGIS.**
+    * **Desenvolvimento de dashboards interativos(Power BI, ArcGis)**
 
 ### Formação Acadêmica
 
