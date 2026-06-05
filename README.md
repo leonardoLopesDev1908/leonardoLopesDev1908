@@ -18,8 +18,8 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 
 Minha stack principal e áreas de estudo incluem:
 
-* **Linguagens:** Java, C++, JavaScript, Python
-* **Frameworks/Bibliotecas:** Spring FrameWork, Pandas, Asio
+* **Linguagens:** Java, C++, JavaScript, Python, Typescript
+* **Frameworks/Bibliotecas:** Spring FrameWork, Pandas, Asio, NestJS
 * **Bancos de Dados:** PostgreSQL, MySQL
 * **Ferramentas:** Docker, Git, GitHub, GitLab, Jenkins
 * **Frontend:** HTML, CSS, Angular, React
