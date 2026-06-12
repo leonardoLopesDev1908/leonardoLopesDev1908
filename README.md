@@ -52,8 +52,6 @@ Minha stack principal e áreas de estudo incluem:
 
 ---
 
-_Este README é um work in progress, assim como meus conhecimentos!_
-
 ### O Que Estou Aprendendo:
 
 * Melhores práticas em arquitetura de software com Spring.
