@@ -14,10 +14,14 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 
 ---
 
+![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,python,pandas,typescript,nest)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)
+![My Skills](https://skillicons.dev/icons?i=angular,react)
+![My Skills](https://skillicons.dev/icons?i=docker,aws,git,gitlab,jenkins)
+
 ###  Tecnologias e Ferramentas
 ## Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,c,linux,docker,kubernetes,postgres,mongodb,git,github)
 Minha stack principal e áreas de estudo incluem:
 
 * **Linguagens:** Java, C++, JavaScript, Python, Typescript
