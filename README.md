@@ -14,7 +14,7 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,python,pandas,typescript,nest)
+![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,python,typescript,nest)
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)
 ![My Skills](https://skillicons.dev/icons?i=angular,react)
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,git,gitlab,jenkins)
