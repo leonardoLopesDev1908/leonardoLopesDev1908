@@ -19,7 +19,6 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 ![My Skills](https://skillicons.dev/icons?i=angular,react)
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,git,gitlab,jenkins)
 
-###  Tecnologias e Ferramentas
 ## Tecnologias
 
 Minha stack principal e áreas de estudo incluem:
@@ -36,7 +35,7 @@ Minha stack principal e áreas de estudo incluem:
 * **Estagiário - Secretaria da Reconstrução Gaúcha do Rio Grande do Sul**
     * Out 2024 – Atualmente
     * Pesquisa e mapeamento de projetos de reconstrução pós-enchentes de 2024.
-    * **Desenvolvimento de dashboards interativos(Power BI, ArcGis)**
+    * **Desenvolvimento de dashboards e mapas interativos(Power BI, ArcGis)**
 
 ### Formação Acadêmica
 
