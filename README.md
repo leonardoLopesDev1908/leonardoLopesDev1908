@@ -1,4 +1,4 @@
-# Olá! Eu sou o Leonardo Lopes da Silva 
+4# Olá! Eu sou o Leonardo Lopes da Silva 
 
 ### Engenheiro de Software em Formação
 
@@ -24,7 +24,7 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 Minha stack principal e áreas de estudo incluem:
 
 * **Linguagens:** Java, C++, JavaScript, Python, Typescript
-* **Frameworks/Bibliotecas:** Spring FrameWork, Pandas, Asio, NestJS
+* **Frameworks/Bibliotecas:** Spring FrameWork, NestJS
 * **Bancos de Dados:** PostgreSQL, MySQL
 * **Ferramentas:** Docker, Git, GitHub, GitLab, Jenkins
 * **Frontend:** HTML, CSS, Angular, React
