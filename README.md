@@ -1,4 +1,4 @@
-4# Olá! Eu sou o Leonardo Lopes da Silva 
+# Olá! Eu sou o Leonardo Lopes da Silva 
 
 ### Engenheiro de Software em Formação
 
