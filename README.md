@@ -40,13 +40,13 @@ Minha stack principal e áreas de estudo incluem:
 
 * **Bacharelado em Engenharia de Software**
     * Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
-    * Atualmente no 3º semestre (período noturno)
+    * Atualmente no 4º semestre (período noturno)
 
 ---
 
 ### Conecte-se Comigo
 
-* **LinkedIn:** [https://www.linkedin.com/in/leonardo-lopes-b4b999178]
+* **LinkedIn:** [https://www.linkedin.com/in/leonardo-silva-lopes
 * **Email:** leonardosilvalls1908@gmail.com
 
 ---
@@ -55,6 +55,7 @@ Minha stack principal e áreas de estudo incluem:
 
 * Melhores práticas em arquitetura de software com Spring.
 * Padrões de design e otimização de código Java.
-* Aprofundamento em tópicos de segurança de aplicações.
+* Arquitetura e desenvolvimento back-end com NestJs.
+* Aprofundamento em tópicos de segurança de aplicações e redes.
 
 ---
