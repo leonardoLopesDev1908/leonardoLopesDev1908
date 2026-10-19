@@ -22,11 +22,11 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e contribu
 
 Minha stack principal e áreas de estudo incluem:
 
-* **Linguagens:** Java, C++, JavaScript, Python, Typescript
+* **Linguagens:** Java, C/C++, Typescript, Python
 * **Frameworks/Bibliotecas:** Spring FrameWork, NestJS
 * **Bancos de Dados:** PostgreSQL, MySQL
 * **Ferramentas:** Docker, Git, GitHub, GitLab, Jenkins
-* **Frontend:** HTML, CSS, Angular, React
+* **Frontend:** Angular, React
 * Deploy: AWS (ECS, EC2, ECR, Aurora/RDS, IAM, Certificate Manager)
 
 ### Experiência Relevante
