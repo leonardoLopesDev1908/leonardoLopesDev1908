@@ -34,7 +34,7 @@ Minha stack principal e áreas de estudo incluem:
 * **Estagiário - Secretaria da Reconstrução Gaúcha do Rio Grande do Sul**
     * Out 2024 – Atualmente
     * Pesquisa e mapeamento de projetos de reconstrução pós-enchentes de 2024.
-    * **Desenvolvimento de dashboards e mapas interativos(Power BI, ArcGis)**
+    * Análise de dados com Power BI
 
 ### Formação Acadêmica
 
