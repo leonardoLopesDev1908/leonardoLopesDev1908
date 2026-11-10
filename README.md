@@ -6,7 +6,9 @@
 
 ###  Sobre Mim
 
-Sou estudante de Engenharia de Software na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), interessado por tecnologia e em constante busca por novos conhecimentos. Tenho um forte interesse em desenvolvimento back-end com **Java e Spring Boot**, focando em criar soluções robustas e eficientes. Além disso, em outra frente, estudo sobre programação de sistemas e redes, buscando compreender conceitos fundamentais nos softwares basilares para o desenvolvimento web e mobile.
+Sou estudante de Engenharia de Software na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), interessado por tecnologia e em constante busca por novos conhecimentos. Tenho um forte interesse em desenvolvimento back-end com **Java e Spring Boot**, focando em criar soluções robustas e eficientes.
+
+Além disso, em outra frente, estudo sobre programação de sistemas e redes, buscando compreender conceitos fundamentais nos softwares basilares para o desenvolvimento web e mobile.
 
 Estou sempre aprendendo e atualmente aprofundando meus conhecimentos em **desenvolvimento web**, **system design** e **segurança** de forma paralela a todas os demais conteúdos desenvolvidos no âmbito da formação em sala de aula.
 
